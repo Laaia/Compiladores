@@ -1,0 +1,12 @@
+36 int
+37 char
+38 float
+39 double
+40 if
+41 else
+42 while
+43 for
+44 printf
+45 main
+46 return
+47 scanf

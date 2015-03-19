@@ -1,0 +1,4 @@
+int a34;
+double eabc;
+float xa;
+
