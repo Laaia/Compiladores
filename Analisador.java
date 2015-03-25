@@ -70,7 +70,7 @@ class Analisador{
       tabelaTokens.get(tabelaTokens.size() - 1).setPosicao(tabelaPosicao.size());
 
       System.out.println(linha);
-    }
+    }//lascou-se
 
   }
 
